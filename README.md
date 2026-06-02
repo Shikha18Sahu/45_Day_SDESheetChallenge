@@ -5,12 +5,38 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shikha18Sahu/45_Day_SDESheetChallenge/tree/master/0053-maximum-subarray) |
+| [0912-sort-an-array](https://github.com/Shikha18Sahu/45_Day_SDESheetChallenge/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shikha18Sahu/45_Day_SDESheetChallenge/tree/master/0053-maximum-subarray) |
+| [0912-sort-an-array](https://github.com/Shikha18Sahu/45_Day_SDESheetChallenge/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shikha18Sahu/45_Day_SDESheetChallenge/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shikha18Sahu/45_Day_SDESheetChallenge/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shikha18Sahu/45_Day_SDESheetChallenge/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shikha18Sahu/45_Day_SDESheetChallenge/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shikha18Sahu/45_Day_SDESheetChallenge/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shikha18Sahu/45_Day_SDESheetChallenge/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shikha18Sahu/45_Day_SDESheetChallenge/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
